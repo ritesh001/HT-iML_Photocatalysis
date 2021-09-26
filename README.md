@@ -8,5 +8,5 @@ This Github repository contains datasets and Jupyter notebooks for the following
 3) Bayesian hyperparameter optimization using Optuna (for formation energy predictions using elemental and chemical hardness-based features)
 4) Finding best ML model (for formation energy predictions using elemental and chemical hardness-based features)
 5) SHAP feature importance plot, dependence plots, and force plots for formation energy predictions using elemental and chemical hardness-based features
-6) Plotting ROC-AUC curve and confusin matrix of the best ML model obtained for multiclass classification of overall stability
+6) Plotting ROC-AUC curve and confusion matrix of the best ML model obtained for multiclass classification of overall stability
 7) SHAP feature importance plot and multioutput decision plot for multiclass classification of overall stability
