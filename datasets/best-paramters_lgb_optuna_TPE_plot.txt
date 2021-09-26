@@ -1,0 +1,19 @@
+    Value: 0.1425800350601198 
+    lambda_l1: 0.006877295828849448
+    lambda_l2: 0.00018670882316212828
+    num_leaves: 39
+    feature_fraction: 0.8807464234289083
+    bagging_fraction: 0.9924540875919834
+    bagging_freq: 3
+    min_child_samples: 11
+    learning_rate: 0.05797323730147839
+    
+    Value: 0.14054001499155358  <-- This one taken finally
+    lambda_l1: 6.361891201722241e-06
+    lambda_l2: 0.058922915363507904
+    num_leaves: 41
+    feature_fraction: 0.527559117550029
+    bagging_fraction: 0.9668053101704331
+    bagging_freq: 1
+    min_child_samples: 13
+    learning_rate: 0.09969741854704843
