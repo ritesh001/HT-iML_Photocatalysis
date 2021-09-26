@@ -1,0 +1,7 @@
+  Value: 0.46078351569743237
+    n_estimators: 486
+    max_depth: 38
+    min_samples_leaf: 1
+    min_samples_split: 10
+    min_weight_fraction_leaf: 4.216549162833433e-05
+    random_state: 78
