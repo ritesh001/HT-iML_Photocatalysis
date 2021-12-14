@@ -14,7 +14,7 @@ This Github repository contains datasets and Jupyter notebooks for the following
 Please cite the following paper if you intend to use our codes in some form:
 @article{Kumar_2021,	
 doi = {10.1038/s41524-021-00669-4},	
-url = {https://doi.org/10.1038%2Fs41524-021-00669-4},	
+url = {https://doi.org/10.1038/s41524-021-00669-4},	
 year = 2021,	
 month = {dec},	
 publisher = {Springer Science and Business Media {LLC}},	
@@ -23,5 +23,5 @@ number = {1},
 pages = {197},
 author = {Ritesh Kumar and Abhishek K. Singh},	
 title = {Chemical hardness-driven interpretable machine learning approach for rapid search of photocatalysts},	
-journal = {npj Computat. Mater.}
+journal = {npj Comput. Mater.}
 }
